@@ -1,0 +1,36 @@
+<resources>
+    <!--Name of app-->
+    <string name="app_name">Finska</string>
+
+    <!--used for select team button on start screen-->
+    <string name="select_team">Select Teams</string>
+
+    <!-- used for start game button on start screen-->
+    <string name="start_game">Start</string>
+
+    <!--hint displayed for entering first player name on team select screen-->
+    <string name="player_one_hint">Player 1</string>
+
+    <!--hint displayed for entering second player name on team select screen-->
+    <string name="player_two_hint">Player 2</string>
+
+    <!--used on button for accepting player names for a team-->
+    <string name="player_accept">Accept</string>
+
+    <!--used on button to accept teams in team select screen-->
+    <string name="teams_accept">Finish</string>
+
+    <!--shows above team summaries-->
+    <string name="team_window_initial">Assigned Teams:</string>
+
+    <string name="team_label">TEAM \</string>
+
+    <string name="detail_team_number">unchanged</string>
+
+    <string name="detail_player_one">unchanged</string>
+
+    <string name="detail_player_two">unchanged</string>
+
+    <string name="detail_score">unchanged</string>
+
+</resources>
